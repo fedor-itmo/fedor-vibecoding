@@ -30,9 +30,10 @@ Date of finished:
 - **Railway** — бесплатный тариф, деплой в один клик через GitHub, автоматический перезапуск при сбоях, поддержка переменных окружения через веб-интерфейс
 - **Docker** — контейнеризация гарантирует одинаковую работу на любой машине, упрощает развёртывание на VPS, `docker-compose up -d` — и бот работает
 
-### URL бота
+### URL бота - https://t.me/itmoftmi_fedor_itmo_bot
 
-> 📸 *[Вставить скриншот: бот в Telegram — @itmoftmi_FL_bot (или ваш username)]*
+<img width="390" height="844" alt="IMG_0218" src="https://github.com/user-attachments/assets/47fa204c-2117-477a-9f70-98fe44da30ee" />
+
 
 ---
 
