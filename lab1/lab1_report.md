@@ -98,11 +98,11 @@ Date of finished:
 
 ### Скриншот: текущая погода с рекомендациями
 
-<img width="1170" height="2532" alt="IMG_0211" src="https://github.com/user-attachments/assets/6bde0ae1-c477-4434-8be4-336ad2a91b4f" />
+<img width="390" height="844" alt="IMG_0211" src="https://github.com/user-attachments/assets/6bde0ae1-c477-4434-8be4-336ad2a91b4f" />
 
 ### Скриншот: прогноз на 3 дня
 
-<img width="1170" height="2532" alt="IMG_0212" src="https://github.com/user-attachments/assets/0d5e4816-00b5-4606-bc14-72452f7acfb3" />
+<img width="390" height="844" alt="IMG_0212" src="https://github.com/user-attachments/assets/0d5e4816-00b5-4606-bc14-72452f7acfb3" />
 
 ### Скриншот: избранные города
 
