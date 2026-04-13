@@ -178,27 +178,27 @@ def add_favorite(user_id: int, city: str, lat: float, lon: float):
 
 ### Скриншот: запрос текущей погоды (работа с API)
 
-> 📸 *[Вставить скриншот: ответ бота на запрос «Санкт-Петербург» — погода, рекомендации, восход/закат, UV-индекс]*
+<img width="390" height="844" alt="IMG_0211" src="https://github.com/user-attachments/assets/0da62bba-23d9-4a00-831e-da21e0a4433f" />
 
 ### Скриншот: прогноз на 3 дня (работа с API)
 
-> 📸 *[Вставить скриншот: прогноз с температурами, осадками и подсказками по одежде]*
+<img width="390" height="844" alt="IMG_0212" src="https://github.com/user-attachments/assets/7ff2e763-fa7e-4e6d-b669-31a97b7944c4" />
 
 ### Скриншот: сохранение города в избранное (работа с SQLite)
 
-> 📸 *[Вставить скриншот: команда /save Москва → подтверждение]*
+![IMG_0215](https://github.com/user-attachments/assets/03fedc5c-756d-41cc-9085-943edcc6e343)
 
 ### Скриншот: список избранных с inline-кнопками
 
-> 📸 *[Вставить скриншот: /favorites → список городов с кнопками 🌤 и 📅]*
+![IMG_0216](https://github.com/user-attachments/assets/ac025726-62bd-4768-990e-49a76ec6199a)
 
 ### Скриншот: удаление из избранного
 
-> 📸 *[Вставить скриншот: команда /remove Москва → подтверждение удаления]*
+![IMG_0217](https://github.com/user-attachments/assets/c90e411e-e98a-4aee-9c73-9739ad5d9b09)
 
 ### Скриншот: обработка ошибок
 
-> 📸 *[Вставить скриншот: запрос несуществующего города → сообщение об ошибке]*
+![IMG_0214](https://github.com/user-attachments/assets/b114001f-121e-4921-865e-2140abae72c7)
 
 ### Примеры запросов и ответов
 
@@ -209,10 +209,6 @@ def add_favorite(user_id: int, city: str, lat: float, lon: float):
 | /save Казань | ⭐ Казань добавлен в избранное! |
 | /favorites | ⭐ Избранные города [inline-кнопки] |
 | Ываыва123 | 😕 Город «Ываыва123» не найден |
-
-### Видео-демо
-
-> 🎬 *[Вставить ссылку на видео-демо работы с данными: YouTube / Google Drive]*
 
 ---
 
