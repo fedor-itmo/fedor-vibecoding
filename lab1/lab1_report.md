@@ -94,27 +94,23 @@ Date of finished:
 
 ### Скриншот: приветственное сообщение и меню бота
 
-> 📸 *[Вставить скриншот: экран /start с приветствием и кнопками меню]*
+<img width="1170" height="2532" alt="IMG_0210" src="https://github.com/user-attachments/assets/8e4e6f6f-3ee1-44d6-9d34-ff44b4dea7c0" />
 
 ### Скриншот: текущая погода с рекомендациями
 
-> 📸 *[Вставить скриншот: ответ бота на запрос города — погода + что надеть + чем заняться]*
+<img width="1170" height="2532" alt="IMG_0211" src="https://github.com/user-attachments/assets/6bde0ae1-c477-4434-8be4-336ad2a91b4f" />
 
 ### Скриншот: прогноз на 3 дня
 
-> 📸 *[Вставить скриншот: ответ бота на команду /forecast с прогнозом]*
+<img width="1170" height="2532" alt="IMG_0212" src="https://github.com/user-attachments/assets/0d5e4816-00b5-4606-bc14-72452f7acfb3" />
 
 ### Скриншот: избранные города
 
-> 📸 *[Вставить скриншот: добавление города в избранное (/save) и список избранных (/favorites)]*
+![IMG_0213](https://github.com/user-attachments/assets/3b31c39f-9410-4fb8-8c89-6cecacc12b5c)
 
 ### Скриншот: обработка ошибок
 
-> 📸 *[Вставить скриншот: ответ бота на несуществующий город]*
-
-### Видео-демо
-
-> 🎬 *[Вставить ссылку на видео-демо (2-3 минуты): YouTube / Google Drive]*
+![IMG_0214](https://github.com/user-attachments/assets/26e2ce37-6447-4630-9faf-a6fb21a773bb)
 
 ---
 
