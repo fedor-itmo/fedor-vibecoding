@@ -1,10 +1,18 @@
-# Отчёт по лабораторной работе №1
+University: [ITMO University](https://itmo.ru/ru/)
+Faculty: [FICT](https://fict.itmo.ru)
+Course: [Vibe Coding: AI-боты для бизнеса](https://github.com/itmo-ict-faculty/vibe-coding-for-business)
+Year: 2025/2026
+Group: [указать группу]
+Author: Латанов Фёдор
+Lab: Lab1
+Date of create: 07.04.2026
+Date of finished: [дата защиты]
+
+---
+
+# Лабораторная работа №1
 
 ## «Создание первого Telegram-бота без программирования»
-
-**Студент:** Латанов Ф.  
-**Группа:** [указать группу]  
-**Дата выполнения:** апрель 2026
 
 ---
 
