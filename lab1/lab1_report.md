@@ -94,7 +94,7 @@ Date of finished:
 
 ### Скриншот: приветственное сообщение и меню бота
 
-<img width="1170" height="2532" alt="IMG_0210" src="https://github.com/user-attachments/assets/8e4e6f6f-3ee1-44d6-9d34-ff44b4dea7c0" />
+<img width="390" height="844" alt="IMG_0210" src="https://github.com/user-attachments/assets/8e4e6f6f-3ee1-44d6-9d34-ff44b4dea7c0" />
 
 ### Скриншот: текущая погода с рекомендациями
 
