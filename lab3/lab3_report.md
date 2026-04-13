@@ -121,8 +121,6 @@ logger = logging.getLogger(__name__)
    - Установил зависимости из `requirements.txt`
    - Запустил бота
 
-> 📸 *[Вставить скриншот: дашборд Railway с запущенным ботом]*
-
 ### Вариант 2: Docker (локальный / VPS)
 
 1. **Сборка и запуск**
@@ -139,8 +137,6 @@ logger = logging.getLogger(__name__)
    ```bash
    docker-compose down
    ```
-
-> 📸 *[Вставить скриншот: терминал с docker-compose up и логами запуска]*
 
 ### С какими проблемами столкнулся
 
