@@ -1,12 +1,12 @@
-University: [ITMO University](https://itmo.ru/ru/)
-Faculty: [FICT](https://fict.itmo.ru)
-Course: [Vibe Coding: AI-боты для бизнеса](https://github.com/itmo-ict-faculty/vibe-coding-for-business)
-Year: 2025/2026
-Group: [указать группу]
-Author: Латанов Фёдор
-Lab: Lab2
-Date of create: 09.04.2026
-Date of finished: [дата защиты]
+University: [ITMO University](https://itmo.ru/ru/)  
+Faculty: [FICT](https://fict.itmo.ru)  
+Course: [Vibe Coding: AI-боты для бизнеса](https://github.com/itmo-ict-faculty/vibe-coding-for-business)  
+Year: 2025/2026  
+Group: U1425  
+Author: Степанов Фёдор  
+Lab: Lab2  
+Date of create: 09.04.2026  
+Date of finished:   
 
 ---
 
